@@ -26,6 +26,17 @@ print("mètodos var.lower , var.upper , var 'Leo Pedrozo'")
 print(name4.upper())
 print(name4.lower())
 print(name4.strip())
+print("\n")
+
+template = f"Hola, ni nombre es {name4}"
+print(template)
+print("\n")
+
+template = "Hola, ni nombre es {} (II)".format(name4)
+print(template)
+print("\n")
+
+
 
 
 
