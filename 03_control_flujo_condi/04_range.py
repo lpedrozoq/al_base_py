@@ -35,5 +35,9 @@ print(">>> sum(range(4)): 0 + 1 + 2 + 3")
 val : int = sum(range(4)) #interesante entender cómo funciona esta parte
 print(val)
 
+print()
+
+
+
 
       
