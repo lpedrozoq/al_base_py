@@ -28,7 +28,7 @@ print()
 
 print(">5. Iteración en una sóla línea de código y con condicionl")
 numbers_v4 = [element * 2 for element in range(16,20) if element % 2 == 0]
-print(numbers_v3)
+print(numbers_v4)
 print()
 
 
