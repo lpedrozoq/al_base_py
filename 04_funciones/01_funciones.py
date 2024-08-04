@@ -1,6 +1,8 @@
 print()
 print(">>>Funciones")
 print()
+
+
 print("1- greet()")
 def greet():
     print("Hola mundo")
