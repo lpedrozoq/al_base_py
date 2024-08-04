@@ -1,0 +1,5 @@
+A tener en cuenta:
+
+List    : mutable y  ||  Ordenada y  ||  indexing/slicing y  ||  duplicar elementos y
+Tuple   : mutable n  ||  Ordenada y  ||  indexing/slicing y  ||  duplicar elementos y
+Set     : mutable y  ||  Ordenada n  ||  indexing/slicing n  ||  duplicar elementos n
