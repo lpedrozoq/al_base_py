@@ -26,7 +26,7 @@ po.feed_animal()
 sam.feed_snake()
 print()    
 
-print(">2- Con abstract classes")
+print(">2- Con abstract classes ")
 # abc is a builtin module, we have to import ABC and abstractmethod
 from abc import ABC, abstractmethod
 
